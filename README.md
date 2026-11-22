@@ -1,10 +1,15 @@
 ```bash
 $ whoami
-ronaldo dela cruz  # builds platforms, breaks homelabs, reads the docs nobody reads
+ronaldo dela cruz # builds platforms, breaks homelabs, reads the docs nobody reads
 
 $ uptime
 coffee: high · curiosity: higher · drift: reconciled
 ```
+
+<p align="left">
+  <a href="mailto:ronald@coderstudio.co"><img src="https://img.shields.io/badge/Let%27s_Talk-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk" /></a>
+  <a href="https://www.linkedin.com/in/ronald-dela-cruz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/></a>
+</p>
 
 ### `~/about`
 
