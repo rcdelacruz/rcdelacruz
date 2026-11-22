@@ -1,27 +1,28 @@
-<h2 align="center">Hey, I'm Ronaldo Dela Cruz 👋</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Hello%2C+world!;I+build+platforms+that+heal+themselves.;Homelabber.+I+break+things+on+purpose.;Security+%E2%89%A0+obscurity." alt="Typing intro" />
-</p>
+```bash
+$ whoami
+ronaldo dela cruz  # builds platforms, breaks homelabs, reads the docs nobody reads
 
----
+$ uptime
+coffee: high · curiosity: higher · drift: reconciled
+```
 
-### 👨‍💻 About Me
+### `~/about`
 
-- 👀 Interested in **Open Source** and its obscurities: the undocumented flags, the edge cases, the code paths nobody reads.
-- 🌱 Learning **Edge Computing, Cybersecurity, Platform Engineering, and AI-driven Development**, and how to make the world a better place for developers.
-- 🏠 Proud homelabber: running Proxmox and Kubernetes clusters at home, breaking things on purpose so production doesn't.
-- 💞 Off the clock: good coffee, vintage audio gear, feel-good music, photography, and weekend travel.
+- Into **Open Source** and its obscurities: the undocumented flags, the edge cases, the code paths nobody reads.
+- Currently learning **Edge Computing, Cybersecurity, Platform Engineering, and AI-driven Development**, and how to make the world a better place for developers.
+- Proud homelabber: running Proxmox and Kubernetes clusters at home, breaking things on purpose so production doesn't.
+- Off the clock: good coffee, vintage audio gear, feel-good music, photography, and weekend travel.
 
-### 🧭 Focus Areas
+### `~/focus`
 
 | Area | What I work on |
 |:--|:--|
-| ☸️ **Platform Engineering** | GitOps, internal developer platforms, self-healing workloads |
-| ☁️ **Multi-Cloud & Edge** | Core-to-edge topologies, serverless, scale-to-zero |
-| 🔐 **Cybersecurity** | Zero-trust architecture, least privilege, supply-chain security |
-| 🤖 **AI-driven Development** | LLMs, agentic workflows, AI-assisted engineering |
+| **Platform Engineering** | GitOps, internal developer platforms, self-healing workloads |
+| **Multi-Cloud & Edge** | Core-to-edge topologies, serverless, scale-to-zero |
+| **Cybersecurity** | Zero-trust architecture, least privilege, supply-chain security |
+| **AI-driven Development** | LLMs, agentic workflows, AI-assisted engineering |
 
-### 🧰 Tech Stack
+### `~/stack`
 
 | | |
 |:--|:--|
